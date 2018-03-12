@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/rspl-rahul/FMCGMasterCode/ReadSMSExample/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mk/values-mk.xml",
+            "map": [
+                {
+                    "source": "/home/rspl-rahul/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/29306d0c7a1bb335319475ec394bdc9a/res/values-mk/values-mk.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/rspl-rahul/FMCGMasterCode/ITCReadSMSExample/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mk/values-mk.xml",
+            "map": [
+                {
+                    "source": "/home/rspl-rahul/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/29306d0c7a1bb335319475ec394bdc9a/res/values-mk/values-mk.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

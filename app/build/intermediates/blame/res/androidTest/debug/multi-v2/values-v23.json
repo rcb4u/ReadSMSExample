@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/rspl-rahul/FMCGMasterCode/ITCReadSMSExample/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-v23/values-v23.xml",
+            "map": [
+                {
+                    "source": "/home/rspl-rahul/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/d99330a3bed7555b46792e61da0c627b/res/values-v23/values-v23.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "200"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/rspl-rahul/FMCGMasterCode/ReadSMSExample/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-v23/values-v23.xml",
+            "map": [
+                {
+                    "source": "/home/rspl-rahul/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/d99330a3bed7555b46792e61da0c627b/res/values-v23/values-v23.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "200"
+                    }
+                }
+            ]
+        }
+    ]
+}

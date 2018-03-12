@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:weightSum="10">
+    <TextView
+           android:id="@+id/smsNumberText"
+           android:layout_width="match_parent"
+           android:layout_height="50dp"
+           android:textSize="18sp"
+           android:textStyle="bold"
+           android:text="Number"
+        android:layout_weight="4">
+       </TextView>
+        <TextView
+            android:id="@+id/smsText"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:textSize="16sp"
+            android:gravity="center"
+            android:textStyle="bold"
+            android:text="Time"
+            android:layout_weight="6">
+        </TextView>
+    </LinearLayout>
+       <View
+           android:layout_width="match_parent"
+           android:layout_height="2dp"
+           android:background="#4E4B4F" />
+</LinearLayout>
